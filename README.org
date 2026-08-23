@@ -4,6 +4,6 @@ lp-hash-table provides pretty fast insertion-ordered linear-probing hash tables 
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/kchanqvq/lp-hash-table.git         |
-| commit  | bdc15a9                                                    |
+| commit  | 12e9113                                                    |
 | systems | lp-hash-table lp-hash-table/benchmark                     |
 |---------+------------------------------------------------------------|
